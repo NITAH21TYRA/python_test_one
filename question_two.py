@@ -2,7 +2,7 @@
 def average_of_numbers(x,y):
     output= (x+y)/2
     print(output)
-#Choosing 6 and 4 as numbers of my choice
+#Choosing 6 and 4 as numbers of my choice.
 average_of_numbers(6,4)
 
 #(ii)

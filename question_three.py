@@ -1,4 +1,5 @@
 #NUMBER 3 (i)
+#question 3
 #student_marks = [78,83,90,88,75]
 def student_marks(a,b,c,d,e):
     output = (a+b+c+d+e)
@@ -25,3 +26,4 @@ student_marks = [78,83,90,88,75]
 new_list = student_marks.index(78)
 new_list = student_marks(87)
 print(student_marks)
+
